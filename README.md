@@ -1,9 +1,3 @@
-# Team Project Repo 
-https://github.com/gopinathsjsu/team-project-team-bluesprint
-
-## Team Name
-BlueSprint
-
 ## Team Members
 * [Dhruvil](https://github.com/gopinathsjsu/team-project-team-bluesprint/tree/Dhruvil)
 * [Mohana](https://github.com/gopinathsjsu/team-project-team-bluesprint/tree/Mohana)
