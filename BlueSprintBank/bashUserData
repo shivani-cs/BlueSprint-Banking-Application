@@ -1,0 +1,5 @@
+#!/bin/bash
+ls
+cd home/ec2-user
+ls
+java -jar blueSprintBank-0.0.1-SNAPSHOT.jar
