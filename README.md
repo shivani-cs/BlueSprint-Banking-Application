@@ -1,8 +1,3 @@
-## Team Members
-* [Dhruvil](https://github.com/gopinathsjsu/team-project-team-bluesprint/tree/Dhruvil)
-* [Mohana](https://github.com/gopinathsjsu/team-project-team-bluesprint/tree/Mohana)
-* [Shivani](https://github.com/gopinathsjsu/team-project-team-bluesprint/tree/Shivani)
-
 ## Project Name
 BlueSprint Banking Management System
 
@@ -64,3 +59,8 @@ https://github.com/gopinathsjsu/team-project-team-bluesprint/projects/1
 * Spring Boot
 * MySql
 * JPA
+
+## Team Members
+* [Dhruvil](https://github.com/gopinathsjsu/team-project-team-bluesprint/tree/Dhruvil)
+* [Mohana](https://github.com/gopinathsjsu/team-project-team-bluesprint/tree/Mohana)
+* [Shivani](https://github.com/gopinathsjsu/team-project-team-bluesprint/tree/Shivani)
